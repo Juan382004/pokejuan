@@ -1,7 +1,7 @@
 # 🚀 ¡Despliega tu Pokedex en Azure con Estilo! 🌟
 
 **🔗 Link de la web en la nube:**  
-[https://delightful-field-02ef8bb10.6.azurestaticapps.net/](https://delightful-field-02ef8bb10.6.azurestaticapps.net/)
+[https://delightful-field-02ef8bb10.6.azurestaticapps.net/](https://mango-sky-01d922910.6.azurestaticapps.net/)
 **📂 Repositorio:** [Juan Cardenas en GitHub](https://github.com/Juan382004/juanpoke)  
 
 ---
