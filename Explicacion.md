@@ -16,7 +16,7 @@
 
 ### 2. 🗺️ ¡Navegando a la Ubicación Correcta! (App Location Adventure!) 🧭
 
-- Ve a: `albertacho/.github/workflows/`
+- Ve a: `juancar/.github/workflows/`
 - Encuentra el archivo `.yml` (como `azure-static-web-apps-delightful-field-02ef8bb10.yml`)
 - Edita el campo:
 
