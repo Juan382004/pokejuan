@@ -1,4 +1,4 @@
-# 🚀 ¡Despliega tu Pokedex en Azure con Estilo! 🌟
+# 🚀 ¡Despliega tu Pokedex en Azure! 🌟
 
 **🔗 Link de la web en la nube:**  
 [https://delightful-field-02ef8bb10.6.azurestaticapps.net/](https://mango-sky-01d922910.6.azurestaticapps.net/)
@@ -12,7 +12,7 @@
 
 - Ve al código original:  
   [Repositorio base de Pokedex](https://github.com/rcuello/ac4dem1a/tree/master/sistemas-distribuidos/poke-dex-lab)
-- Haz clic en **Fork** y crea tu propia copia (ej: `albertacho`).
+- Haz clic en **Fork** y crea tu propia copia (ej: `Juancard`).
 
 ### 2. 🗺️ ¡Navegando a la Ubicación Correcta! (App Location Adventure!) 🧭
 
