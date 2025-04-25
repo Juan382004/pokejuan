@@ -45,7 +45,7 @@ Una red virtual (VNet) en Azure permite que varios recursos se comuniquen de man
 ### 🔧 Paso 1: Acceder al Portal de Azure
 
 - Visita [https://portal.azure.com](https://portal.azure.com)
-- Ve al buscador y escribe `Redes virtuales`, luego selecciona **"Crear"**.
+- Ve al buscador y escribe `statik wep`, luego selecciona **"Crear"**.
 
 ### 🔧 Paso 2: Configurar la Red Virtual
 
@@ -53,36 +53,24 @@ Una red virtual (VNet) en Azure permite que varios recursos se comuniquen de man
    Escribe un nombre descriptivo (ej. `vnet-pokedex`).
 
 2. **Región**:  
-   Selecciona la región más cercana a tus usuarios (ej. `East US`).
+   Selecciona la región más cercana a tus usuarios (ej. `central US`).
 
-3. **Espacio de direcciones IPv4**:  
-   Define un bloque CIDR, por ejemplo:  
-   `10.0.0.0/16`
+3. **plan de ospedage**:  
+   Yo elegi el gratis, puedes usar lo que gustes 
 
-4. **Subred**:  
-   Crea una subred dentro del bloque, por ejemplo:  
-   - Nombre: `subnet-principal`  
-   - Rango de IP: `10.0.1.0/24`
+4. **detalles de la implementacion**:  
+   en mi caso github puedes elergir el que guste,
+   luego selecioas la organizacion y el respositorio 
 
-5. **Asignación IP Estática (Opcional)**:  
-   Para una IP estática, crea una máquina virtual y luego:
-   - Ve a la configuración de red.
-   - Selecciona la interfaz de red (NIC).
-   - Configura una IP privada estática manualmente.
-
+6. **Le das crear**
+7. 
 ## 3. ✅ Conclusión
 
 Con estos pasos ya tienes:
 
 - Una cuenta activa en Azure con crédito gratuito.
 - Una red virtual configurada para tus recursos.
-- Opcionalmente, una subred con IPs estáticas.
 
 > 💡 **Recomendación:** Siempre usa nombres descriptivos para tus recursos y organiza por grupos de recursos según el proyecto.
 
 ---
-
-### 📚 Referencias
-
-- [Documentación oficial de Azure - Redes virtuales](https://learn.microsoft.com/es-es/azure/virtual-network/)
-- [Planes gratuitos de Azure](https://azure.microsoft.com/es-es/free/)
